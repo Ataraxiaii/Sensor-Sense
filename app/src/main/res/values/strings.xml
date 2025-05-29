@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sensor-Sense</string>
+    <string name="sensor_image">Sensor-Image</string>
+    <string name="csv">保存数据为csv</string>
+    <string name="parameter">参数明细</string>
+    <string name="record">开始保存数据</string>
+    <string name="imput_text">请输入保存的文件名：</string>
+    <string name="accelerometer_data_csv">例如：accelerometer_data.csv</string>
+</resources>
